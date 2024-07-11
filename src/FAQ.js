@@ -2,7 +2,7 @@ import ContactUs from "./ContactUs";
 
 const FAQ = () => {
     return (
-        <div class="container" className="faq">
+        <div class="container" className="faq" id="faq">
             <div class="row" id="row">
                 <div class="col" id="col">
                     <p>

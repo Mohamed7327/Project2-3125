@@ -1,29 +1,22 @@
 import {BrowserRouter as Router,Route,Routes} from "react-router-dom";
 import Navbar from "./components/Navbar";
-import Home from "./Home";
-import ContactUs from "./ContactUs";
-import FindVenue from "./FindVenue";
-import FAQ from "./FAQ";
-import Booking from "./Booking";
 import Footer from "./components/Footer";
 
 function App() {
   return (
-    <Router>
-      <div className="App">
-        <Navbar/>
-        <div className="content">
-          <Routes>
-            <Route path="/" element={<Home />}/>
-            <Route path="/findvenue" element={<FindVenue />}/>
-            <Route path="/contactus" element={<ContactUs />}/>
-            <Route path="/faq" element={<FAQ />}/>
-            <Route path="/booking" element={<Booking />}/>
-          </Routes>
-        </div> 
-        <Footer/>
-      </div>
-    </Router>
+    <div className="App">
+      <Navbar/>
+      <div className="content">
+        <ul>
+          <li><a href="#home"/></li>
+          <li><a href="#findVenue"/></li>
+          <li><a href="#contactUs"/>Home</li>
+          <li><a href="#faq"/>Home</li>
+          <li><a href="#booking"/>Home</li>
+        </ul>
+      </div> 
+      <Footer/>
+    </div>
   );
 }
 

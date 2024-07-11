@@ -3,7 +3,7 @@ import contactUsImg2 from "./img/contactUsImg2.png"
 
 const ContactUs = () => {
     return (
-        <div className="contactUs">
+        <div className="contactUs" id="contactUs">
             <h2>Contact Us</h2>
             <div className="row" class="row">
                 <div className="col">

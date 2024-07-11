@@ -7,7 +7,7 @@ import mainPage5 from "./img/mainPage5.png"
 
 const Home = () => {
     return (
-        <div className="home">
+        <div className="home" id="home">
             <div className="headline">
                 <h2>Plan Your Perfect Event With Us</h2>
                 <a href="/findVenue" element={<Booking />}>Find A Venue Today!</a>                

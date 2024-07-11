@@ -1,6 +1,6 @@
 const Booking = () => {
     return (
-        <div className="content">
+        <div className="content" id="booking">
             <div className="row" class="row">
 
             </div>
