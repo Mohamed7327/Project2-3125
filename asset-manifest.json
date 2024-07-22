@@ -1,20 +1,26 @@
 {
   "files": {
-    "main.css": "/project2-3125/static/css/main.7559bda5.css",
-    "main.js": "/project2-3125/static/js/main.8b819487.js",
+    "main.css": "/project2-3125/static/css/main.631e32db.css",
+    "main.js": "/project2-3125/static/js/main.2b020d66.js",
     "static/media/mainPage1.png": "/project2-3125/static/media/mainPage1.f1a6af7318f4668e30ad.png",
+    "static/media/birthday2.jpg": "/project2-3125/static/media/birthday2.cb51c6472d656c0d430b.jpg",
+    "static/media/concert1.jpg": "/project2-3125/static/media/concert1.8465a5104c48598ea412.jpg",
     "static/media/mainPage5.png": "/project2-3125/static/media/mainPage5.55da674d23896326a811.png",
     "static/media/mainPage3.png": "/project2-3125/static/media/mainPage3.2edc041640323d413c77.png",
+    "static/media/wedding2.jpg": "/project2-3125/static/media/wedding2.a886f76fef3430869b26.jpg",
     "static/media/mainPage2.png": "/project2-3125/static/media/mainPage2.6c3fc7a86eab19a9b1d4.png",
+    "static/media/concert2.jpg": "/project2-3125/static/media/concert2.8e6a95e0c2dee1fff618.jpg",
     "static/media/mainPage4.png": "/project2-3125/static/media/mainPage4.e4fcd52d42c898a27136.png",
+    "static/media/birthday1.jpg": "/project2-3125/static/media/birthday1.7a11d26e8421926db165.jpg",
+    "static/media/wedding1.jpg": "/project2-3125/static/media/wedding1.2dd5bac9116c72024e65.jpg",
     "static/media/contactUsImg2.png": "/project2-3125/static/media/contactUsImg2.25b269491bbb54aae596.png",
     "static/media/contactUsImg1.png": "/project2-3125/static/media/contactUsImg1.c681da615a4fccb5e80b.png",
     "index.html": "/project2-3125/index.html",
-    "main.7559bda5.css.map": "/project2-3125/static/css/main.7559bda5.css.map",
-    "main.8b819487.js.map": "/project2-3125/static/js/main.8b819487.js.map"
+    "main.631e32db.css.map": "/project2-3125/static/css/main.631e32db.css.map",
+    "main.2b020d66.js.map": "/project2-3125/static/js/main.2b020d66.js.map"
   },
   "entrypoints": [
-    "static/css/main.7559bda5.css",
-    "static/js/main.8b819487.js"
+    "static/css/main.631e32db.css",
+    "static/js/main.2b020d66.js"
   ]
 }
