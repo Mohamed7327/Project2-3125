@@ -1,0 +1,89 @@
+{
+  "navbar": {
+    "home": "Home",
+    "findVenue": "Find Your Venue",
+    "contactUs": "Contact Us",
+    "faq": "FAQ",
+    "language": "Language"
+    },
+
+  "home": {
+    "headline": "Plan Your Perfect Event With Us",
+    "findVenueButton": "Find A Venue Today!",
+    "findVenueTitle": "Find Your Perfect Venue Today!",
+    "findVenueDescription": "Discover the ideal location for your next event with our comprehensive venue selection tool. Whether you’re planning a wedding, corporate event, or private party, we offer a wide range of venues to suit any occasion and budget. Explore stunning locations, compare amenities, and read reviews to make an informed decision. Start your search now and find the perfect venue",
+    "trustedByCompaniesTitle": "Trusted by Major Companies",
+    "trustedByCompaniesDescription": "Join the ranks of top-tier organizations that rely on us to find the perfect venues for their events. From multinational corporations to innovative startups, our platform is the go-to choice for businesses seeking exceptional locations for conferences, meetings, and corporate functions. Experience the confidence of working with a trusted partner, and let us help you create memorable events that impress your clients and colleagues alike.",
+    "checkOutVenuesTitle": "Check Out Our Beautiful Venues",
+    "checkOutVenuesDescription": "Discover a selection of stunning venues that are perfect for any occasion. From office spaces to charming outdoor spaces, our curated collection offers something for every event. Take a look at these wonderful locations and imagine your next event in one of these breathtaking settings.",
+    "weddingVenue": "Wedding Venue",
+    "officeVenue": "Office Venue",
+    "concertVenue": "Concert Venue",
+    "findVenueFooter": "Find Your Venue"
+    },
+
+  "findVenue": {
+    "title": "Find a Venue",
+    "category": "Category:",
+    "size": "Size:",
+    "price": "Price:",
+    "location": "Location:",
+    "all": "All",
+    "wedding": "Wedding",
+    "birthday": "Birthday",
+    "concert": "Concert",
+    "small": "Small",
+    "medium": "Medium",
+    "large": "Large",
+    "low": "Low",
+    "high": "High",
+    "downtownOttawa": "Downtown Ottawa",
+    "chateauLaurier": "Château Laurier",
+    "dowsLake": "Dow's Lake"
+    },
+
+  "faq": {
+    "question1": "Q. How can I check the availability of a venue for my desired date?",
+    "answer1": "You can check the availability of our venues by visiting the 'Check Availability' section on our website. Simply select your desired date and venue, and our system will show you the availability status. For any specific inquiries or further assistance, feel free to contact our customer service team.",
+    "question2": "Q. What is included in the rental fee for a venue?",
+    "answer2": "The rental fee typically includes access to the venue for the duration of your event, basic furniture such as tables and chairs, standard lighting, and on-site support staff. Additional services such as catering, audio-visual equipment, and decoration can be arranged for an extra charge. Please refer to the venue details on our website for a comprehensive list of what's included or contact us for a customized package.",
+    "question3": "Q. What is the cancellation policy for venue bookings?",
+    "answer3": "Our cancellation policy varies depending on the venue and the time of cancellation. Generally, cancellations made more than 30 days prior to the event will receive a full refund, while cancellations made between 15-30 days before the event will incur a 50% charge. Cancellations made within 14 days of the event are non-refundable. Please review the specific cancellation terms for your chosen venue in the booking confirmation or contact our support team for more details.",
+    "contactText": "If you have any unanswered questions,",
+    "contactLink": "contact us directly!"
+    },
+
+
+  "booking": {
+    "title": "Book Venue",
+    "alertTitle": "Booking Details:",
+    "venueName": "Venue Name",
+    "venueLocation": "Venue Location",
+    "venueSize": "Venue Size",
+    "venuePrice": "Venue Price",
+    "yourName": "Your Name",
+    "yourEmail": "Your Email",
+    "yourAddress": "Your Address",
+    "submit": "Submit",
+    "name": "Name",
+    "email": "Email",
+    "address": "Address",
+    "venue": "Venue",
+    "location": "Location",
+    "size": "Size",
+    "price": "Price",
+    "errorMessage": "Please fill out all required fields."
+    },
+
+      "contactUs": {
+        "title": "Contact Us",
+        "imgAlt1": "Contact Image 1",
+        "imgAlt2": "Contact Image 2",
+        "johnDoe": {
+          "position": "Head of Management"
+      },
+        "janeDoe": {
+          "position": "Help Desk"
+      }
+    }
+}

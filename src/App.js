@@ -1,4 +1,5 @@
 import {BrowserRouter as Router,Route,Routes} from "react-router-dom";
+import './i18n'; // Import the i18n configuration
 import Navbar from "./components/Navbar";
 import Home from "./Home";
 import ContactUs from "./ContactUs";

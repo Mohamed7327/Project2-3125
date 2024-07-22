@@ -1,0 +1,88 @@
+{
+    "navbar": {
+        "home": "Accueil",
+        "findVenue": "Trouvez Votre Lieu",
+        "contactUs": "Contactez-Nous",
+        "faq": "FAQ",
+        "language": "Langue"
+        },
+
+    "home": {
+        "headline": "Planifiez Votre Événement Parfait Avec Nous",
+        "findVenueButton": "Trouvez Un Lieu Aujourd'hui !",
+        "findVenueTitle": "Trouvez Votre Lieu Parfait Aujourd'hui !",
+        "findVenueDescription": "Découvrez l'emplacement idéal pour votre prochain événement avec notre outil de sélection de lieux complet. Que vous planifiiez un mariage, un événement d'entreprise ou une fête privée, nous proposons une large gamme de lieux adaptés à toute occasion et budget. Explorez des lieux magnifiques, comparez les équipements et lisez les avis pour prendre une décision éclairée. Commencez votre recherche maintenant et trouvez le lieu parfait.",
+        "trustedByCompaniesTitle": "Fait Confiance par des Grandes Entreprises",
+        "trustedByCompaniesDescription": "Rejoignez les rangs des organisations de premier plan qui comptent sur nous pour trouver les lieux parfaits pour leurs événements. Des multinationales aux startups innovantes, notre plateforme est le choix privilégié des entreprises recherchant des lieux exceptionnels pour des conférences, des réunions et des fonctions d'entreprise. Faites l'expérience de la confiance de travailler avec un partenaire de confiance et laissez-nous vous aider à créer des événements mémorables qui impressionneront vos clients et collègues.",
+        "checkOutVenuesTitle": "Découvrez Nos Magnifiques Lieux",
+        "checkOutVenuesDescription": "Découvrez une sélection de lieux magnifiques qui sont parfaits pour toute occasion. Des espaces de bureau aux charmants espaces extérieurs, notre collection soigneusement sélectionnée offre quelque chose pour chaque événement. Jetez un coup d'œil à ces lieux merveilleux et imaginez votre prochain événement dans l'un de ces cadres époustouflants.",
+        "weddingVenue": "Lieu de Mariage",
+        "officeVenue": "Lieu de Bureau",
+        "concertVenue": "Lieu de Concert",
+        "findVenueFooter": "Trouvez Votre Lieu"
+        },
+    
+    "findVenue": {
+        "title": "Trouvez Un Lieu",
+        "category": "Catégorie:",
+        "size": "Taille:",
+        "price": "Prix:",
+        "location": "Emplacement:",
+        "all": "Tout",
+        "wedding": "Mariage",
+        "birthday": "Anniversaire",
+        "concert": "Concert",
+        "small": "Petit",
+        "medium": "Moyenne",
+        "large": "Grand",
+        "low": "Bas",
+        "high": "Élevé",
+        "downtownOttawa": "Centre-Ville d'Ottawa",
+        "chateauLaurier": "Château Laurier",
+        "dowsLake": "Lac Dow"
+        },
+
+    "faq": {
+        "question1": "Q. Comment puis-je vérifier la disponibilité d'un lieu pour ma date souhaitée ?",
+        "answer1": "Vous pouvez vérifier la disponibilité de nos lieux en visitant la section 'Vérifier la Disponibilité' sur notre site Web. Il vous suffit de sélectionner votre date et lieu souhaités, et notre système vous affichera le statut de disponibilité. Pour toute question spécifique ou assistance supplémentaire, n'hésitez pas à contacter notre service client.",
+        "question2": "Q. Que comprend le tarif de location d'un lieu ?",
+        "answer2": "Le tarif de location inclut généralement l'accès au lieu pendant la durée de votre événement, le mobilier de base tel que des tables et des chaises, l'éclairage standard et le personnel de soutien sur place. Des services supplémentaires tels que la restauration, l'équipement audiovisuel et la décoration peuvent être arrangés moyennant un coût supplémentaire. Veuillez consulter les détails du lieu sur notre site Web pour une liste complète de ce qui est inclus ou contactez-nous pour un forfait personnalisé.",
+        "question3": "Q. Quelle est la politique d'annulation pour les réservations de lieu ?",
+        "answer3": "Notre politique d'annulation varie en fonction du lieu et du moment de l'annulation. En général, les annulations effectuées plus de 30 jours avant l'événement recevront un remboursement complet, tandis que les annulations effectuées entre 15 et 30 jours avant l'événement entraîneront des frais de 50 %. Les annulations effectuées dans les 14 jours précédant l'événement ne sont pas remboursables. Veuillez consulter les termes d'annulation spécifiques pour le lieu choisi dans la confirmation de réservation ou contactez notre équipe de support pour plus de détails.",
+        "contactText": "Si vous avez des questions sans réponse,",
+        "contactLink": "contactez-nous directement !"
+        },
+
+    "booking": {
+        "title": "Réserver un Lieu",
+        "alertTitle": "Détails de la Réservation :",
+        "venueName": "Nom du Lieu",
+        "venueLocation": "Emplacement du Lieu",
+        "venueSize": "Taille du Lieu",
+        "venuePrice": "Prix du Lieu",
+        "yourName": "Votre Nom",
+        "yourEmail": "Votre Email",
+        "yourAddress": "Votre Adresse",
+        "submit": "Soumettre",
+        "name": "Nom",
+        "email": "Email",
+        "address": "Adresse",
+        "venue": "Lieu",
+        "location": "Emplacement",
+        "size": "Taille",
+        "price": "Prix",
+        "errorMessage": "S'il-vous-plaît remplissez tous les champs requis."
+        },
+
+    "contactUs": {
+        "title": "Contactez-nous",
+        "imgAlt1": "Image de Contact 1",
+        "imgAlt2": "Image de Contact 2",
+        "johnDoe": {
+            "position": "Responsable de la Gestion"
+            },
+            "janeDoe": {
+            "position": "Support"
+            }
+        }
+}
