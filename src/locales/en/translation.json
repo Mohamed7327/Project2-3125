@@ -77,13 +77,22 @@
 
       "contactUs": {
         "title": "Contact Us",
+        "ourOffice": "Our Office",
         "imgAlt1": "Contact Image 1",
         "imgAlt2": "Contact Image 2",
         "johnDoe": {
-          "position": "Head of Management"
+        "position": "Head of Management"
       },
         "janeDoe": {
           "position": "Help Desk"
       }
-    }
+    },
+    
+    "venueCard": {
+    "size": "Size",
+    "price": "Price",
+    "location": "Location",
+    "bookNow": "Book Now"
+  }
+
 }

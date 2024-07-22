@@ -76,6 +76,7 @@
 
     "contactUs": {
         "title": "Contactez-nous",
+        "ourOffice": "Notre Bureau",
         "imgAlt1": "Image de Contact 1",
         "imgAlt2": "Image de Contact 2",
         "johnDoe": {
@@ -84,5 +85,12 @@
             "janeDoe": {
             "position": "Support"
             }
+        },
+
+    "venueCard": {
+        "size": "Taille",
+        "price": "Prix",
+        "location": "Emplacement",
+        "bookNow": "Réservez maintenant"
         }
 }
