@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 import { useTranslation } from 'react-i18next';
 import VenueCard from './VenueCard';
 import wedding1 from './img/wedding1.jpg';
@@ -25,11 +25,7 @@ function FindVenue() {
   const [price, setPrice] = useState('all');
   const [location, setLocation] = useState('all');
 
-  useEffect(() => {
-    filterVenues();
-  }, [category, size, price, location]);
-
-  const filterVenues = () => {
+  const filterVenues = useCallback(() => {
     const filtered = venues.filter(venue => {
       return (category === 'all' || venue.category === category) &&
         (size === 'all' || venue.size === size) &&
@@ -37,7 +33,11 @@ function FindVenue() {
         (location === 'all' || venue.location === location);
     });
     setFilteredVenues(filtered);
-  };
+  }, [category, size, price, location]);
+
+  useEffect(() => {
+    filterVenues();
+  }, [category, size, price, location, filterVenues]);
 
   const handleBookNow = (venue) => {
     localStorage.setItem('selectedVenue', JSON.stringify(venue));
@@ -45,9 +45,9 @@ function FindVenue() {
   };
 
   return (
-    <div className="FindVenue" style={{marginLeft:"40px", marginRight:"40px"}}>
-      <h2 style={{paddingTop:"40px", paddingBottom:"20px"}}>{t('findVenue.title')}</h2>
-      <div className="filters" style={{paddingBottom:"20px"}}>
+    <div className="FindVenue" style={{ marginLeft: "40px", marginRight: "40px" }}>
+      <h2 style={{ paddingTop: "40px", paddingBottom: "20px" }}>{t('findVenue.title')}</h2>
+      <div className="filters" style={{ paddingBottom: "20px" }}>
         <span className="filter-label">{t('findVenue.category')}</span>
         <select value={category} onChange={(e) => setCategory(e.target.value)}>
           <option value="all">{t('findVenue.all')}</option>
